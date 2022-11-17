@@ -1,0 +1,30 @@
+.container {
+  width: 600px;
+  margin: auto;
+  }
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+img{
+  width: 300px;
+  }
+
+h1 {
+  color: lime;
+  }
+
+.riquadroverde{
+  background-color: lime;
+  margin: 120px;
+  padding: 18px;
+  text-align: center;
+  }
+
+  .info {
+  color: white;
+    }
